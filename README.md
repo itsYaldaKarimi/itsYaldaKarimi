@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsYaldaKarimi
 - 👀 I’m interested in web development , back-end development , and mobile apps.
 - 🌱 I’m currently learning django . back-end programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on wordpress projects
 - 📫 How to reach me 
 
 <!---
